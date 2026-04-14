@@ -1,0 +1,21 @@
+{
+  "name": "Jalna",
+  "name_local": "जालना",
+  "type": "district",
+  "parent": {
+    "state": "Maharashtra",
+    "division": "Chhatrapati Sambhajinagar",
+    "country": "India"
+  },
+  "code": {
+    "census_2011": "514",
+    "lgd": "479"
+  },
+  "coverage": {
+    "municipalities": ["jalna-city-municipal-corporation"],
+    "tehsils": []
+  },
+  "contributors": ["@ruteshr"],
+  "created": "2026-04-14",
+  "last_updated": "2026-04-14"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Jalna City Municipal Corporation",
+  "name_local": "जालना शहर महानगरपालिका",
+  "type": "municipal_corporation",
+  "parent": {
+    "district": "Jalna",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "location": {
+    "lat": 19.8347,
+    "lng": 75.8816
+  },
+  "units": {
+    "wards": 16
+  },
+  "sources": [
+    {
+      "title": "Final Ward Formation - Comprehensive Ward Map",
+      "type": "image",
+      "description": "Comprehensive ward formation map showing all 16 prabhags, from JCMC General Election 2025 section",
+      "url": "https://drive.google.com/file/d/1PtZki4kC9WaOG-DjaNpLCMviWJCOipbA/view?usp=sharing",
+      "page_url": "https://jcmcjalna.org/page/final-ward-formation",
+      "accessed": "2026-04-14",
+      "department": "Jalna City Municipal Corporation"
+    },
+    {
+      "title": "Boundary Descriptions (Appendix 1-6 / परिशिष्ट १ ते ६)",
+      "type": "document",
+      "description": "Detailed textual descriptions of ward boundaries",
+      "url": "https://drive.google.com/file/d/1TJ_sU1sg1MXaWJdh_GtLW1-Ia6xMnA8Z/view?usp=sharing",
+      "page_url": "https://jcmcjalna.org/page/final-ward-formation",
+      "accessed": "2026-04-14",
+      "department": "Jalna City Municipal Corporation"
+    }
+  ],
+  "ward_map_sources": {
+    "prabhag_01": "https://drive.google.com/file/d/1NS_6pGeYIMqQU6n_Jq1UiCgBUbK-ni2v/view?usp=sharing",
+    "prabhag_02": "https://drive.google.com/file/d/18DKATLoqNNbITH31S-ltNLHj89tMEQ9z/view?usp=sharing",
+    "prabhag_03": "https://drive.google.com/file/d/11KeuoeoOwqGJgksqjTN6RPVYwqiNXcN-/view?usp=sharing",
+    "prabhag_04": "https://drive.google.com/file/d/1VoBr32vIxHP3LhSKjxqCi2T97YA3Cmvg/view?usp=sharing",
+    "prabhag_05": "https://drive.google.com/file/d/1jeGJiR03YYraYtrUvzTv8PxO1CVxZA0I/view?usp=sharing",
+    "prabhag_06": "https://drive.google.com/file/d/1s8b-djrXRxMAiw8KYEX8fw-omvEyaiHr/view?usp=sharing",
+    "prabhag_07": "https://drive.google.com/file/d/1hfeN7JUjge_4U4m-HXTjj9qkuwX2koQK/view?usp=sharing",
+    "prabhag_08": "https://drive.google.com/file/d/19Siu6-JybY-8OY_xXGfqgdUTkFRGu3Fk/view?usp=sharing",
+    "prabhag_09": "https://drive.google.com/file/d/1jfycDBdIN5uO4ndvryYJwpzD57OjJiOm/view?usp=sharing",
+    "prabhag_10": "https://drive.google.com/file/d/1Qz871pHDluXN90x3KO8mexpE9buvXG6r/view?usp=sharing",
+    "prabhag_11": "https://drive.google.com/file/d/1RzTi2FHyTtMzp1vF3ETZQapDsgGoLGF1/view?usp=sharing",
+    "prabhag_12": "https://drive.google.com/file/d/1IQS45A9U80d_GjbEcbFUFn-X3uKi2G_h/view?usp=sharing",
+    "prabhag_13": "https://drive.google.com/file/d/1S1mpHViOUM9d-f4qLW_-5kpnidIAE2qT/view?usp=sharing",
+    "prabhag_14": "https://drive.google.com/file/d/1Mh4-XsXHGuIu7MohWVWw2H5FAgu247d3/view?usp=sharing",
+    "prabhag_15": "https://drive.google.com/file/d/1siPA581ZhxxSRHJs8eVngnzzltIefe7R/view?usp=sharing",
+    "prabhag_16": "https://drive.google.com/file/d/1zCeZ0N6YodBQ4drupQY5jRmmP6N7kdQL/view?usp=sharing"
+  },
+  "data_files": {
+    "wards": {
+      "geojson": "wards/wards.geojson"
+    }
+  },
+  "contributors": ["@ruteshr"],
+  "created": "2026-04-14",
+  "last_updated": "2026-04-14",
+  "notes": "Scaffolded structure. Ward boundary GeoJSON data pending — needs to be hand-traced from official ward delimitation maps sourced from jcmcjalna.org.",
+  "known_issues": [
+    "Ward boundary GeoJSON not yet traced — awaiting source map tracing"
+  ]
+}
