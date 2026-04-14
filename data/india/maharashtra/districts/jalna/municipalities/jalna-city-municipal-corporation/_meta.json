@@ -57,7 +57,9 @@
       "geojson": "wards/wards.geojson"
     }
   },
-  "contributors": ["@ruteshr"],
+  "contributors": [
+    "@ruteshrathod"
+  ],
   "created": "2026-04-14",
   "last_updated": "2026-04-14",
   "notes": "Scaffolded structure. Ward boundary GeoJSON data pending — needs to be hand-traced from official ward delimitation maps sourced from jcmcjalna.org.",
